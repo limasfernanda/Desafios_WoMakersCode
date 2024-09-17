@@ -24,6 +24,18 @@ No módulo sobre Mercado de Dados vimos que a área de dados é uma das que mais
 
 [Artigo do LinkedIn - Identificação de Problemas](https://www.linkedin.com/feed/update/urn:li:activity:7216202368357453824/)
 
+## Desafios
 
+### Desafio 1 - Python para dados
+
+
+### Desafio 2 - Banco de dados SQL
+
+
+
+### Desafio 3 - Estatística Python: frequência de medidas
+
+
+### Desafio 4 - Estatística Python: probabilidade e amostragem
 
 
